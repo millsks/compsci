@@ -1,4 +1,3 @@
-
 def selection_sort(array: list) -> None:
     """
     A simple implementation of selection sort.
