@@ -37,7 +37,6 @@ def selection_sort(array: list) -> None:
 
 
 if __name__ == '__main__':
-    help(selection_sort)
     import random
 
     # Create randomly sampled array of size ranging from 10 to 50
